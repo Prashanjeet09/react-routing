@@ -1,0 +1,14 @@
+*{margin:0;padding:0;}
+
+
+
+.homestyle{
+    height:300px;
+    width:100%;
+    background:aqua;
+    color:white;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
